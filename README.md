@@ -10,3 +10,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+### Linguagens de Programação no GitHub
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marceleoliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
