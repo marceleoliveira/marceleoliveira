@@ -1,6 +1,6 @@
 # Olá, eu sou Marcele 👋🏼
 
-🔗 [LinkedIn](http://linkedin.com/in/marcele-oliveira-2a825b11b/)
+🔗 [LinkedIn](https://www.linkedin.com/in/marcele-oliveira-2a825b11b)
 
 ---
 
@@ -20,6 +20,8 @@
 
 ---
 
-## 🧠 Linguagens mais usadas
+## 🧠 Linguagens de Programação no GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marceleoliveira&layout=compact&theme=radical)
+
+✨ Obrigada por visitar meu GitHub! 🚀
